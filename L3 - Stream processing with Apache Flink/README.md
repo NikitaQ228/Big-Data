@@ -25,3 +25,21 @@
 
 
 Зарегистрируйтесь на сайте https://training.ververica.com для доступа к теоретическим материалам и дополнительным упражнениям.
+
+## Резульататы тестирования
+
+  - RideCleanisingTest
+
+  ![alt text](tests/image_2026-04-12_17-28-40.png)
+
+  - RidesAndFaresTest
+
+  ![alt text](<tests/image_2026-04-12_17-28-40 (2).png>)
+
+  - HourlyTipsTest
+
+  ![alt text](<tests/image_2026-04-12_17-28-40 (3).png>)
+
+  - ExpiringStateTest
+
+  ![alt text](<tests/image_2026-04-12_17-28-40 (4).png>)
